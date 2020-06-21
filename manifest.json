@@ -1,0 +1,16 @@
+{
+  "name": "pwa aing",
+  "short_name": "pwa",
+  "description": "app pertama aing",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "backgrounf-color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
